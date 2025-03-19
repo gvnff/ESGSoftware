@@ -41,6 +41,18 @@ Enfim, vamos desenvolver isso usando a linguagem C#, através do Visual Studio, 
 - Console Application
 
 - Banco de Dados MariaDB (opcional)
+
+### Funcionalidades
+
+- Registro de materiais recicláveis e não recicláveis
+
+- Monitoramento em tempo real do desperdício
+
+- Geração de relatórios e estatísticas
+
+- Interface gráfica intuitiva com Windows Forms
+
+- Logs detalhados no console
  
 
 
