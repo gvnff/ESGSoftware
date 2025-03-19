@@ -60,8 +60,18 @@ Enfim, vamos desenvolver isso usando a linguagem C#, através do Visual Studio, 
 - IDE recomendada: Visual Studio (ou outra IDE de sua preferência, como Visual 
 Studio Code, etc.).
 
-### Configuração
+### Instalação
+
+Clone este repositório:
+
 Clone o repositório: [git clone](https://github.com/gvnff/ESGSoftware)
+
+Abra o projeto no Visual Studio.
+
+Restaure os pacotes NuGet.
+
+Compile e execute a aplicação.
+
 
 ### Como Usar
 
