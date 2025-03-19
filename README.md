@@ -1,4 +1,4 @@
-# Eco Insigth
+# ECOInsigth
 Soluções ambientais para empresas com foco em ESG
 
 ## Sistema de Monitoramento de Desperdício e Reciclagem
