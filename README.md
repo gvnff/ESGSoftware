@@ -1,5 +1,5 @@
-# EcoInsigth
-Soluções ambientais em C# para empresas com foco em ESG
+# Eco Insigth
+Soluções ambientais para empresas com foco em ESG
 
 ## Sistema de Monitoramento de desperdício e reciclagem
 ![banner](https://github.com/gvnff/ESGSoftware/blob/main/imagemDeCapaProj(2).jpeg)
