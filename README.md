@@ -37,7 +37,7 @@ Enfim, vamos desenvolver isso usando a linguagem C#, através do Visual Studio, 
 Studio Code, etc.).
 
 ### Configuração
-Clone o repositório: git clone https://github.com/gvnff/ESGSoftware
+Clone o repositório: [git clone](https://github.com/gvnff/ESGSoftware)
 
 ### Uso
 Este sistema fornece uma interface de janelas de comando para gerenciar 
