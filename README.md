@@ -3,7 +3,7 @@ Soluções ambientais em C# para empresas com foco em ESG
 
 ## Sistema de Monitoramento de desperdício e reciclagem
 ![banner](https://github.com/gvnff/ESGSoftware/blob/main/imagemDeCapaProj(2).jpeg)
-Este sistema foi criado para facilitar a gestâo de estoque em pequenas empresas. Ele  centraliza informações sobre produtos, categorias, movimentações de estoque e  fornecedores, permitindo um controle de estoque eficiente e a manutenção de um  registro detalhado das operações.
+Este é um software desenvolvido em C# como uma aplicação Windows Forms e Console Application para monitorar desperdício e reciclagem de materiais.
 
 ### Tópico 1
 
@@ -33,7 +33,7 @@ Enfim, vamos desenvolver isso usando a linguagem C#, através do Visual Studio, 
 
 ### Pré-requisitos
 - Sistema de gerenciamento de banco de dados MariaDB.
-- IDE recomendada: IntelliJ IDEA (ou outra IDE de sua preferência, como Visual 
+- IDE recomendada: Visual Studio (ou outra IDE de sua preferência, como Visual 
 Studio Code, etc.).
 
 ### Configuração
