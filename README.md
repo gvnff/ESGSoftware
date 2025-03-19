@@ -5,6 +5,31 @@ Soluções ambientais em C# para empresas com foco em ESG
 ![banner](https://github.com/gvnff/ESGSoftware/blob/main/capaProjeto(2).jpeg)
 Este sistema foi criado para facilitar a gestâo de estoque em pequenas empresas. Ele  centraliza informações sobre produtos, categorias, movimentações de estoque e  fornecedores, permitindo um controle de estoque eficiente e a manutenção de um  registro detalhado das operações.
 
+#Tópico 1
+
+Nós somos a EcoInsight Senac, Uma empresa StartUp desenvolvedora de software volta para o ramo de reciclagem(Cada um se apresenta)
+ 
+#Tópico 2
+
+Nós começamos essa empresa StartUp a partir de uma idéia para um projeto integrador do Senac, dentro da área de programação.
+ 
+#Tópico 3
+
+A gente quer desenvolver uma solução tecnológica que facilite e incentive a reciclagem, pois valorizamos sustentabilidade e a preservação do meio ambiente.
+ 
+#Tópico 4
+
+Seria um software administrativo pra computador, que facilitaria o controle de reciclagem em empresas e indústrias.
+ 
+#Tópico 5
+
+Ou seja, ele ajudaria a supervisionar redução de resíduos, separação de itens recicláveis e não recicláveis, e até a organização dos tipos de materiais(Metal, plástico, papel, etc.)
+ 
+#Tópico 6
+
+Enfim, vamos desenvolver isso usando a linguagem C#, através do Visual Studio, mais pra frente teremos uma solução pronta.
+ 
+
 ### Tabelas Implementadas
 #### produtos
 Contém informações detalhadas sobre cada produto, como identificação única, 
