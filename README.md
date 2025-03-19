@@ -53,7 +53,6 @@ Enfim, vamos desenvolver isso usando a linguagem C#, através do Visual Studio, 
 - Interface gráfica intuitiva com Windows Forms
 
 - Logs detalhados no console
- 
 
 
 ### Pré-requisitos
@@ -64,10 +63,11 @@ Studio Code, etc.).
 ### Configuração
 Clone o repositório: [git clone](https://github.com/gvnff/ESGSoftware)
 
-### Uso
-Este sistema fornece uma interface de janelas de comando para gerenciar 
-categorias, movimentações de estoque e fornecedores. A seguir, você encontrará 
-exemplos detalhados de como utilizar cada funcionalidade.
+### Como Usar
+
+1. Executar via Console: Abra o terminal e execute o arquivo .exe gerado na pasta de build.
+
+2. Executar via Windows Forms: Abra a interface gráfica para visualizar os dados de desperdício e reciclagem.
 
 
 ### Licença
