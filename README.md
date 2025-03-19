@@ -28,6 +28,19 @@ Ou seja, ele ajudaria a supervisionar redução de resíduos, separação de ite
 ### Tópico 6
 
 Enfim, vamos desenvolver isso usando a linguagem C#, através do Visual Studio, mais pra frente teremos uma solução pronta.
+
+
+### Tecnologias Utilizadas
+
+- C#
+
+- .NET Framework
+
+- Windows Forms
+
+- Console Application
+
+- Banco de Dados MariaDB (opcional)
  
 
 
