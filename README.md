@@ -1,7 +1,7 @@
 # Eco Insigth
 Soluções ambientais para empresas com foco em ESG
 
-## Sistema de Monitoramento de desperdício e reciclagem
+## Sistema de Monitoramento de Desperdício e Reciclagem
 ![banner](https://github.com/gvnff/ESGSoftware/blob/main/imagemDeCapaProj(2).jpeg)
 Este é um software desenvolvido em C# como uma aplicação Windows Forms e Console Application para monitorar desperdício e reciclagem de materiais.
 
