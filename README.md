@@ -69,6 +69,20 @@ Clone o repositório: [git clone](https://github.com/gvnff/ESGSoftware)
 
 2. Executar via Windows Forms: Abra a interface gráfica para visualizar os dados de desperdício e reciclagem.
 
+### Contribuição
+
+Contribuições são bem-vindas! Para contribuir:
+
+1. Fork este repositório.
+
+2. Crie uma branch para sua feature (git checkout -b feature-minha-feature).
+
+3. Commit suas alterações (git commit -m 'Adiciona nova funcionalidade').
+
+4. Push para a branch (git push origin feature-minha-feature).
+
+5. Abra um Pull Request.
+
 
 ### Licença
 Este projeto é licenciado sob a Licença MIT License.
