@@ -2,7 +2,7 @@
 Soluções ambientais em C# para empresas com foco em ESG
 
 ## Sistema de Monitoramento de desperdício e reciclagem
-![banner](https://github.com/gvnff/ESGSoftware/blob/main/ProjetoIntegradorSenac_c%23.jfif](https://github.com/gvnff/ESGSoftware/blob/main/capaProjetoSenac.jfif))
+![banner](https://github.com/gvnff/ESGSoftware/blob/main/ProjetoIntegradorSenac_c%23.jfif](https://github.com/gvnff/ESGSoftware/blob/main/capaProjetoSenac.jpeg))
 Este sistema foi criado para facilitar a gestâo de estoque em pequenas empresas. Ele  centraliza informações sobre produtos, categorias, movimentações de estoque e  fornecedores, permitindo um controle de estoque eficiente e a manutenção de um  registro detalhado das operações.
 
 ### Tabelas Implementadas
