@@ -5,29 +5,9 @@ Soluções ambientais para empresas com foco em ESG
 ![banner](https://github.com/gvnff/ESGSoftware/blob/main/imagemDeCapaProj(2).jpeg)
 Este é um software desenvolvido em C# como uma aplicação Windows Forms e Console Application para monitorar desperdício e reciclagem de materiais.
 
-### Tópico 1
+### Sobre a EcoInsight
 
-Nós somos a EcoInsight Senac, Uma empresa StartUp desenvolvedora de software volta para o ramo de reciclagem(Cada um se apresenta)
- 
-### Tópico 2
-
-Nós começamos essa empresa StartUp a partir de uma idéia para um projeto integrador do Senac, dentro da área de programação.
- 
-### Tópico 3
-
-A gente quer desenvolver uma solução tecnológica que facilite e incentive a reciclagem, pois valorizamos sustentabilidade e a preservação do meio ambiente.
- 
-### Tópico 4
-
-Seria um software administrativo pra computador, que facilitaria o controle de reciclagem em empresas e indústrias.
- 
-### Tópico 5
-
-Ou seja, ele ajudaria a supervisionar redução de resíduos, separação de itens recicláveis e não recicláveis, e até a organização dos tipos de materiais(Metal, plástico, papel, etc.)
- 
-### Tópico 6
-
-Enfim, vamos desenvolver isso usando a linguagem C#, através do Visual Studio, mais pra frente teremos uma solução pronta.
+Somos a EcoInsight, uma empresa StartUp criada a partir de um projeto integrador do Senac na área de programação. Nosso objetivo é desenvolver uma solução tecnológica que facilite e incentive a reciclagem, promovendo a sustentabilidade e a preservação do meio ambiente. Para isso, estamos desenvolvendo um software administrativo que auxilia empresas e indústrias no controle da reciclagem, ajudando a reduzir resíduos, separar materiais recicláveis e organizar diferentes tipos de materiais (metal, plástico, papel, etc.). O projeto está sendo desenvolvido em C# utilizando o Visual Studio, e em breve teremos uma solução funcional.
 
 
 ### Tecnologias Utilizadas
